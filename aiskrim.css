@@ -1,0 +1,58 @@
+body {
+
+	background-image: url(umar.jpg);
+	font-size: 20px;
+}
+
+label.dotted {border-style: dotted;}
+
+h1{text-align: center; }
+
+div {
+  
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  text-indent: 50px;
+  }
+
+h2 {
+ 	font-weight: normal;
+
+.ayam {
+	text-align: center;
+}
+
+h1 {
+	font-family: "Lucida Grande";
+}
+
+
+img {
+	opacity: 0.8;
+	float: right;
+}
+
+.fas {
+	size: 30px;
+}
+
+.container {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0px 7px red;
+}
+
+/* Tambahkan CSS untuk message ketika diklik */
+.message:active {
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
